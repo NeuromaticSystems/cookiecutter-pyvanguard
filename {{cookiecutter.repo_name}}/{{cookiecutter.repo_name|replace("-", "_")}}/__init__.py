@@ -6,7 +6,7 @@
 {{ cookiecutter.description }}
 
 :copyright: (c) {{ cookiecutter.year }} by {{ cookiecutter.full_name }}
-:licence: MIT, see LICENCE for more details
+:licence: All Rights Reserved, see LICENCE for more details
 """
 from __future__ import absolute_import, unicode_literals
 import logging
@@ -28,7 +28,7 @@ __version__ = '{{ cookiecutter.version }}'
 __author__ = '{{ cookiecutter.full_name }}'
 __email__ = '{{ cookiecutter.email }}'
 
-__license__ = 'MIT'
+__license__ = 'All Rights Reserved.'
 __copyright__ = 'Copyright {{ cookiecutter.year }} {{ cookiecutter.full_name }}'
 
 # the user should dictate what happens when a logging event occurs
